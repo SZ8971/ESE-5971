@@ -76,7 +76,7 @@ The two-year reassessment cycle is considered in the analysis, but the predictio
 
 5. Open either notebook in Jupyter Notebook or VS Code:
    - `Milestone2.ipynb`
-   - `Milestone3_Code.ipynb`
+   - `Milestone3.ipynb`
 
 6. Run the notebook cells in order.
 
