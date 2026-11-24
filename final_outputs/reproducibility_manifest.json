@@ -1,0 +1,15 @@
+{
+  "python": "3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 20:54:21) [Clang 16.0.6 ]",
+  "platform": "macOS-26.5.1-arm64-arm-64bit",
+  "pandas": "2.2.2",
+  "numpy": "1.26.4",
+  "scikit_learn": "1.6.1",
+  "matplotlib": "3.8.4",
+  "seaborn": "0.13.2",
+  "random_seed": 5971,
+  "selected_ridge_alpha": 1.0,
+  "development_years": "2017-2023",
+  "final_holdout_period": "2024-2025",
+  "bootstrap_unit": "property row (2024 WARD unavailable)",
+  "bootstrap_draws": 300
+}
